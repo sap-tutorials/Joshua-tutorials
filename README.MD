@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/sap-tutorials/Joshua-tutorials)](https://api.reuse.software/info/github.com/sap-tutorials/Joshua-tutorials)
+
 # Tutorials for https://developers.sap.com
 This repository is one of several that contain tutorials about SAP technologies. The tutorials are part of the [SAP developer pages](https://developers.sap.com) and can be found here: <https://developers.sap.com/tutorial-navigator.html>.
 
